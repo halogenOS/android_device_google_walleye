@@ -22,9 +22,9 @@ TARGET_MANUFACTURER := HTC
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=taimen \
-    BUILD_FINGERPRINT=google/walleye/walleye:8.0.0/OPD1.170816.025/4424668:user/release-keys \
-    PRIVATE_BUILD_DESC="walleye-user 8.0.0 OPD1.170816.025 4424668 release-keys"
+    PRODUCT_NAME=walleye \
+    BUILD_FINGERPRINT=google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys \
+    PRIVATE_BUILD_DESC="walleye-user 8.1.0 OPM1.171019.011 4448085 release-keys"
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.carbon.maintainer="Myself5"
