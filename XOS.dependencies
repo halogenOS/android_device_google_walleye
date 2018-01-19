@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "android_device_google_muskie",
+    "target_path": "device/google/muskie",
+    "branch": "XOS-8.1"
+  },
+  {
+    "repository": "android_vendor_google_walleye",
+    "target_path": "vendor/google/walleye",
+    "branch": "XOS-8.1"
+  }
+]
