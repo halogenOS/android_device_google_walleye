@@ -14,6 +14,7 @@
     "target_path": "device/google/wahoo",
     "branch": "XOS-8.1"
   },
+  {
     "repository": "android_kernel_google_wahoo",
     "target_path": "kernel/google/wahoo",
     "branch": "XOS-8.1"
